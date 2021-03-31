@@ -1,4 +1,7 @@
-The following link includes Win32 and MacOS versions. Any request/comment feel free to reach out to amalerba@blackberry.com
-https://blackberryltd-my.sharepoint.com/:f:/g/personal/amalerba_blackberry_com/EgzhMeihJ7tKnBxuEM0qph0BZbm3InSxZbZJM3xaS1aY3Q?e=ftoRvK
+The following links include Win32 and MacOS versions. Any request/comment feel free to reach out to amalerba@blackberry.com
+
+(internal) https://blackberryltd-my.sharepoint.com/:f:/g/personal/amalerba_blackberry_com/EgzhMeihJ7tKnBxuEM0qph0BZbm3InSxZbZJM3xaS1aY3Q?e=ftoRvK
+
+(external) https://www.dropbox.com/sh/i8u4nbesalw4y47/AACCGNwbFzzD_8cyhBdBE0Sna?dl=0
 
 Credits and massive thanks to my JS Guru https://github.com/rogueai
